@@ -1,0 +1,3 @@
+- Untuk tugas no 1 terdapat di file index.js, outputnya dapat dilihat dengan menggunakan perintah node index.js
+- Untuk tugas no 2 dapat dilihat di file server.js, outputnya dapat dilihat dengan menggunakan perintah node server.js di console dan mengakses link server localhost yang ada di console
+- Untuk tugas no 3 dapat dilihat di file add.js dan main.js, outputnya dapat dilihat dengan menggunakan perintah node main.js di console
