@@ -1,0 +1,27 @@
+[
+    {
+      "_id": "637e9fce2f1d3b6b1c8eaf11",
+      "name": "Smartphone",
+      "price": 699,
+      "category": "637e9fbf2f1d3b6b1c8eaf01"
+    },
+    {
+      "_id": "637e9fce2f1d3b6b1c8eaf12",
+      "name": "Laptop",
+      "price": 999,
+      "category": "637e9fbf2f1d3b6b1c8eaf01"
+    },
+    {
+      "_id": "637e9fce2f1d3b6b1c8eaf13",
+      "name": "Novel",
+      "price": 19,
+      "category": "637e9fbf2f1d3b6b1c8eaf02"
+    },
+    {
+      "_id": "637e9fce2f1d3b6b1c8eaf14",
+      "name": "T-Shirt",
+      "price": 15,
+      "category": "637e9fbf2f1d3b6b1c8eaf03"
+    }
+  ]
+  

@@ -1,0 +1,18 @@
+[
+    {
+      "_id": "637e9fbf2f1d3b6b1c8eaf01",
+      "name": "Electronics",
+      "description": "Devices and gadgets"
+    },
+    {
+      "_id": "637e9fbf2f1d3b6b1c8eaf02",
+      "name": "Books",
+      "description": "Educational and fictional books"
+    },
+    {
+      "_id": "637e9fbf2f1d3b6b1c8eaf03",
+      "name": "Clothing",
+      "description": "Men's and women's clothing"
+    }
+  ]
+  
